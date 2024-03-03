@@ -1,3 +1,14 @@
-# Currency-Notes-Identification
+# Fake Currency Note Classifier
+## Overview
+This project marks my initial venture into Deep Learning, showcasing a neural network model built using the Keras library. The primary goal is to classify currency notes as either genuine or fake, achieving an impressive 99% accuracy during testing.
 
-While being on my learning journey of Deep Leaning, this is the first DL model that I built using the keras library and a standard neural network.The model can be used to identify if the currency note is real or fake and showed 99% accuracy when tested. The model was made using the dataset provided for the practice purpose, gathered from the real currency notes' images. The data and the python code used to built the model can be provided on special requests.
+## Model Details
+Library: Keras
+Architecture: Standard Neural Network
+## Dataset
+The dataset employed for training is proprietary and utilized solely for practice purposes. Real currency note images were collected to create a diverse and representative dataset.
+
+## Note
+For security reasons, the dataset and the original notebook are not included in this repository. However, on special requests, I am open to providing the data and code used to construct the model.
+
+Feel free to explore, modify, or inquire about any aspect of the project. Your feedback is always appreciated.
